@@ -1,3 +1,6 @@
+//Kit Pollinger
+// 210 - Lab - 17 | Modularize the Linked List Code
+
 #include <iostream>
 using namespace std;
 
